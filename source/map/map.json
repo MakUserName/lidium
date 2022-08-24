@@ -1,0 +1,16 @@
+[
+    {
+        "map.height": 18,
+        "map.width": 11,
+        "map.cellSize": 40,
+        "map.start.offset": [0, 0]
+    },
+    {
+        "noise.data.grass": [0, 7],
+        "noise.data.water": [7, 10]
+    },
+    {
+        "noise.data.biom.flower": [2, 5],
+        "noise.data.biom.sand": [6, 9]
+    }
+]

@@ -1,0 +1,9 @@
+{
+    "win.geometry": [720, 440],
+    "win.caption": "Lidium",
+    "win.framerate": 120,
+    "win.version": "0.0w1",
+    
+    "player.speed": 3,
+    "player.speed.shift": 5
+}

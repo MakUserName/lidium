@@ -1,5 +1,14 @@
 # Lidium[indev]
-*Project start*, there is nothing in the first version, because this is a test bay on GitHub and in the future I will develop it for the better, *and I hope you will like it.*
-## version[indev -v0.0w0]:
+The moment has come, and I'm ready to talk about the idea and idea of ​​​​the game, its meaning is that you and your friend build and develop within a world that is not endless, this is the meaning of this game, for ideas you can write to me by mail
+## version[indev -v0.0w1]:
 * Added, changed
-    1. The first launch of the project and the GitHub page
+    * Added player and his texture and his movements
+    * Simple save system
+
+## Planned to version [indev -v0.1w0]:
+* Planned
+    * World generation
+    * Construction and resource extraction
+    * survival system
+    * menu and interface
+    * multiplayer
